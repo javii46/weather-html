@@ -1,0 +1,19 @@
+
+		
+		<html>
+		   <head>
+		<body>
+		     <h1> El tiempo en andalucia </h1>
+		     <h2> {{ capital }} </h2>
+		     <ul>
+			  <li> temperatura minima prevista {{ temp_min }} grados centigrados </li>
+			  <li> temperatura maxima prevista {{ temp_max }} grados centigrados </li>
+			  <li> Viento previsto es de {{ viento1 }} km/h en direccion {{ orientación2 }} </li>
+		<body>
+		<html>
+
+
+
+
+
+	
